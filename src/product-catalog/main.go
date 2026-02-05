@@ -322,4 +322,5 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 
 // test comment 5
 
+// test comment 6
 
